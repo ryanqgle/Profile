@@ -26,7 +26,7 @@ I'm a second-year CS student at UC San Diego with a passion for building things 
 ### University of California, San Diego
 **B.S. in Computer Science** | Aug. 2024 - Present
 
-\\\
+---
 
 ## Projects
 
@@ -49,8 +49,6 @@ I'm a second-year CS student at UC San Diego with a passion for building things 
 - Engineering RESTful APIs to manage event data and dynamic content across the application.
 - Building responsive, modular React components for features including events calendar and spotlights page.
 - Collaborating in a 6-person team using Git and code reviews to deliver maintainable code.
-  
----
 
 ### Lead Builder
 *Scottie Subs (AUVSI Robosub 2023)*
